@@ -1,0 +1,40 @@
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\bin\Debug\MeterFarm.exe.config
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\bin\Debug\MeterFarm.exe
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\bin\Debug\MeterFarm.pdb
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.csprojAssemblyReference.cache
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.Form1.resources
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.Properties.Resources.resources
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.csproj.GenerateResource.cache
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.csproj.CoreCompileInputs.cache
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.exe
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.pdb
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.MonoMenu.resources
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.BiMenu.resources
+C:\Users\Hugp\source\repos\MeterFarm\MeterFarm\obj\Debug\MeterFarm.TriMenu.resources
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\MeterFarm.exe.config
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\MeterFarm.exe
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\MeterFarm.pdb
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.csprojAssemblyReference.cache
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.Properties.Resources.resources
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.csproj.GenerateResource.cache
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.exe
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.pdb
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\MySql.Data.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.MainForm.resources
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.csproj.CopyComplete
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\Google.Protobuf.pdb
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\Google.Protobuf.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\Renci.SshNet.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\System.Buffers.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\System.Memory.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.View.Collect.resources
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.View.TreeView.resources
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.View.Filter.resources
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.View.Search.resources
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.View.Update.resources
+C:\Users\julia.fideles\Downloads\MeterFarm - Copia (1)\MeterFarm - Copia\MeterFarm\obj\Debug\MeterFarm.View.Access.resources
